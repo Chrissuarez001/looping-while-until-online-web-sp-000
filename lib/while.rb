@@ -5,3 +5,4 @@ def using_while
     puts "Increase the levitation force."
  levitation_force += 1
 end
+end 
